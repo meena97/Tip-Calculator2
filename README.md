@@ -25,20 +25,10 @@ The following **additional** features are implemented:
 - user can change the color theme
 - user can split the bill
 - added a slider for the tip percentage
-<<<<<<< HEAD
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<a href="http://imgur.com/84AQJ6i"><img src="http://imgur.com/84AQJ6i.gif" title="source: imgur.com" /></a>
-
-=======
 - added faces that correspond to how the user might feel with each tip percentage
 - animated the faces to light up based on which tip percentage was selected
 - animated the segmented controls to slide in
 - added an App icon and launchscreen
-
 
 ## Video Walkthrough
 
@@ -50,7 +40,6 @@ Here's a walkthrough of implemented user stories:
 
 <a href="http://imgur.com/H8kn58F"><img src="http://imgur.com/H8kn58F.gif" title="source: imgur.com" /></a>
 
->>>>>>> 0eb152d364d343fcd2a14348cab35d4dc3528a09
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
