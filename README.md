@@ -14,10 +14,17 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 * [x] Settings page to change the default tip percentage.
+<<<<<<< HEAD
 * [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+=======
+* [x] UI animations
+* [x] Remembering the bill amount across app restarts (if <10mins)
+* [x] Using locale-specific currency and currency thousands separators.
+* [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+>>>>>>> 0eb152d364d343fcd2a14348cab35d4dc3528a09
 
 The following **additional** features are implemented:
 
@@ -25,6 +32,7 @@ The following **additional** features are implemented:
 - user can change the color theme
 - user can split the bill
 - added a slider for the tip percentage
+<<<<<<< HEAD
 
 ## Video Walkthrough
 
@@ -32,6 +40,24 @@ Here's a walkthrough of implemented user stories:
 
 <a href="http://imgur.com/84AQJ6i"><img src="http://imgur.com/84AQJ6i.gif" title="source: imgur.com" /></a>
 
+=======
+- added faces that correspond to how the user might feel with each tip percentage
+- animated the faces to light up based on which tip percentage was selected
+- animated the segmented controls to slide in
+- added an App icon and launchscreen
+
+
+## Video Walkthrough
+
+**Here's a walkthrough of implemented user stories:**
+
+<a href="http://imgur.com/84AQJ6i"><img src="http://imgur.com/84AQJ6i.gif" title="source: imgur.com" /></a>
+
+**After implementing additional features**
+
+<a href="http://imgur.com/H8kn58F"><img src="http://imgur.com/H8kn58F.gif" title="source: imgur.com" /></a>
+
+>>>>>>> 0eb152d364d343fcd2a14348cab35d4dc3528a09
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
