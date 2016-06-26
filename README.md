@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 
 **After implementing additional features**
 
-<a href="http://imgur.com/84AQJ6i"><img src="http://imgur.com/84AQJ6i.gif" title="source: imgur.com" /></a>
+<a href="http://imgur.com/H8kn58F"><img src="http://imgur.com/H8kn58F.gif" title="source: imgur.com" /></a>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
