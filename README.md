@@ -28,6 +28,7 @@ The following **additional** features are implemented:
 - added faces that correspond to how the user might feel with each tip percentage
 - animated the faces to light up based on which tip percentage was selected
 - animated the segmented controls to slide in
+- added an App icon and launchscreen
 
 
 ## Video Walkthrough
